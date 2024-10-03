@@ -7,7 +7,7 @@ function Header() {
     return (
         <header className={cx('wrapper')}>
             <div className={cx('inner')}>
-                
+                <h2>Header</h2>
             </div>
         </header>
     );
